@@ -1,0 +1,20 @@
+
+.jumbotron {
+    margin: 0px auto;
+    padding: 40px 30px;
+    background: #9575cd;
+    color: floralwhite;
+    min-height: 100px;
+  }
+  
+  #hbtn{
+    color: white;
+  }
+  #hbtn.hover{
+    background:whitesmoke;
+  }
+
+.active {
+  background: #4527A0;
+}
+
